@@ -64,7 +64,7 @@ const Paragraph = styled.p`
 
 const HeaderImages = styled.div`
     position: relative;
-    background-image: url("/assets/images/bg-intro-desktop.svg");
+    background-image: url("./assets/images/bg-intro-desktop.svg");
     background-size: cover;
     background-position-x: 50px;
     background-position-y: 60%;
@@ -73,7 +73,7 @@ const HeaderImages = styled.div`
     @media only screen and (max-width: 768px) {
         width: 100%;
         order: -1;
-        background-image: url("/assets/images/bg-intro-mobile.svg");
+        background-image: url("./assets/images/bg-intro-mobile.svg");
         background-position: center;
         height: 50%;
     }
@@ -118,7 +118,7 @@ export const HeaderComponent = () => {
                 <HeaderImages>
                     <PhoneImage
                         className="img-fluid"
-                        src="/assets/images/image-mockups.png"
+                        src="./assets/images/image-mockups.png"
                     />
                 </HeaderImages>
             </Container>

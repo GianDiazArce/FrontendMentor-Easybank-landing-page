@@ -114,7 +114,7 @@ export const FooterComponent = () => {
                             {footerSocialIcons.map((icon, index) => (
                                 <FooterIcon
                                     key={index}
-                                    src={`/assets/images/${icon.img}`}
+                                    src={`./assets/images/${icon.img}`}
                                     alt={icon.alt}
                                 />
                             ))}

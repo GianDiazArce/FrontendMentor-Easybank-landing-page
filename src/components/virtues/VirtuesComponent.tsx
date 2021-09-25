@@ -82,7 +82,7 @@ export const VirtuesComponent = () => {
                     {reasonListText.map((reasonText, index) => (
                         <ReasonCard key={index}>
                             <ReasonCardImg
-                                src={`/assets/images/${reasonText.img}`}
+                                src={`./assets/images/${reasonText.img}`}
                             />
                             <ReasonCardTitle>
                                 {reasonText.title}

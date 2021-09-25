@@ -77,7 +77,7 @@ export const ArticlesComponent = () => {
                         <Card key={index}>
                             <CardFigure>
                                 <CardImg
-                                    src={`assets/images/${cardText.img}`}
+                                    src={`./assets/images/${cardText.img}`}
                                 />
                             </CardFigure>
                             <CardBody>
