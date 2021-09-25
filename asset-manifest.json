@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FrontendMentor-Easybank-landing-page/static/css/main.7d497ae3.chunk.css",
+    "main.js": "/FrontendMentor-Easybank-landing-page/static/js/main.56d1b533.chunk.js",
+    "main.js.map": "/FrontendMentor-Easybank-landing-page/static/js/main.56d1b533.chunk.js.map",
+    "runtime-main.js": "/FrontendMentor-Easybank-landing-page/static/js/runtime-main.e4eb546b.js",
+    "runtime-main.js.map": "/FrontendMentor-Easybank-landing-page/static/js/runtime-main.e4eb546b.js.map",
+    "static/js/2.fba88adc.chunk.js": "/FrontendMentor-Easybank-landing-page/static/js/2.fba88adc.chunk.js",
+    "static/js/2.fba88adc.chunk.js.map": "/FrontendMentor-Easybank-landing-page/static/js/2.fba88adc.chunk.js.map",
+    "index.html": "/FrontendMentor-Easybank-landing-page/index.html",
+    "static/css/main.7d497ae3.chunk.css.map": "/FrontendMentor-Easybank-landing-page/static/css/main.7d497ae3.chunk.css.map",
+    "static/js/2.fba88adc.chunk.js.LICENSE.txt": "/FrontendMentor-Easybank-landing-page/static/js/2.fba88adc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4eb546b.js",
+    "static/js/2.fba88adc.chunk.js",
+    "static/css/main.7d497ae3.chunk.css",
+    "static/js/main.56d1b533.chunk.js"
+  ]
+}
